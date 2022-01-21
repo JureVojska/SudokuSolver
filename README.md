@@ -28,4 +28,4 @@ The program solves "any type of sudoku.
 | 2   8   6 | 3   1   4 | 9   7   5 | 
 +---+---+---+---+---+---+---+---+---+
 
-Name of text file needs to be an argument.
+Name of a text file needs to be an argument.
