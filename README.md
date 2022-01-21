@@ -14,7 +14,7 @@ The program solves "any type of sudoku.
                             |
                             |
                             V
-        //+---+---+---+---+---+---+---+---+---+
+          +---+---+---+---+---+---+---+---+---+
           | 3   7   4 | 6   2   5 | 8   1   9 | 
           | 9   2   5 | 1   8   3 | 6   4   7 | 
           | 8   6   1 | 7   4   9 | 5   2   3 | 
@@ -27,5 +27,3 @@ The program solves "any type of sudoku.
           | 7   4   3 | 9   5   6 | 2   8   1 | 
           | 2   8   6 | 3   1   4 | 9   7   5 | 
           +---+---+---+---+---+---+---+---+---+
-
-Name of a text file needs to be an argument.
